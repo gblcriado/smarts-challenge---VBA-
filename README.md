@@ -10,7 +10,7 @@
 </h1>
 
 # 💻Sobre
-O projeto **Sistema de Verificar** Clientes é um DashBoard que concentra informações de clientes da empresa SmarfStaff a fim de possibilitar a vizualização de suas informações de maneira resumida, porém caso o usuário selecione o registro especifico, as informações serão detalhadas.
+O projeto **Sistema de Verificar** Clientes é um DashBoard que concentra informações de clientes da empresa SmarfStaff a fim de possibilitar a vizualização de suas informações de maneira resumida, caso o usuário selecione o registro especifico, as informações serão detalhadas. O projeto foi feito para realização do Estagio Voluntario da FATEC - Antônio Russo 
 
 # ❓Como rodar localmente?
 Para rodar na sua maquina, basta ter instalado o Microsoft Office Excel com as macros habilitadas.
